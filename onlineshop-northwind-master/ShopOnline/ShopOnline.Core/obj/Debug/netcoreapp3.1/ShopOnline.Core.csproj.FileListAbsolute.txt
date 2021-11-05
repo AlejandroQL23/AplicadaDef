@@ -1,0 +1,44 @@
+C:\Users\CihatSolak\Source\Repos\Shop-Online\ShopOnline\ShopOnline.Core\bin\Debug\netcoreapp3.1\ShopOnline.Core.deps.json
+C:\Users\CihatSolak\Source\Repos\Shop-Online\ShopOnline\ShopOnline.Core\bin\Debug\netcoreapp3.1\ShopOnline.Core.dll
+C:\Users\CihatSolak\Source\Repos\Shop-Online\ShopOnline\ShopOnline.Core\obj\Debug\netcoreapp3.1\ShopOnline.Core.csprojAssemblyReference.cache
+C:\Users\CihatSolak\Source\Repos\Shop-Online\ShopOnline\ShopOnline.Core\obj\Debug\netcoreapp3.1\ShopOnline.Core.AssemblyInfoInputs.cache
+C:\Users\CihatSolak\Source\Repos\Shop-Online\ShopOnline\ShopOnline.Core\obj\Debug\netcoreapp3.1\ShopOnline.Core.AssemblyInfo.cs
+C:\Users\CihatSolak\source\repos\Shop-Online\ShopOnline\ShopOnline.Core\bin\Debug\netcoreapp3.1\ShopOnline.Core.pdb
+C:\Users\CihatSolak\source\repos\Shop-Online\ShopOnline\ShopOnline.Core\obj\Debug\netcoreapp3.1\ShopOnline.Core.csproj.CoreCompileInputs.cache
+C:\Users\CihatSolak\source\repos\Shop-Online\ShopOnline\ShopOnline.Core\obj\Debug\netcoreapp3.1\ShopOnline.Core.dll
+C:\Users\CihatSolak\source\repos\Shop-Online\ShopOnline\ShopOnline.Core\obj\Debug\netcoreapp3.1\ShopOnline.Core.pdb
+C:\Users\Usuario\Desktop\UNIVERSIDAD\2021\INFO APLICADA\PROYECTO 2\Northwind\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\bin\Debug\netcoreapp3.1\ShopOnline.Core.deps.json
+C:\Users\Usuario\Desktop\UNIVERSIDAD\2021\INFO APLICADA\PROYECTO 2\Northwind\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\bin\Debug\netcoreapp3.1\ShopOnline.Core.dll
+C:\Users\Usuario\Desktop\UNIVERSIDAD\2021\INFO APLICADA\PROYECTO 2\Northwind\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\bin\Debug\netcoreapp3.1\ShopOnline.Core.pdb
+C:\Users\Usuario\Desktop\UNIVERSIDAD\2021\INFO APLICADA\PROYECTO 2\Northwind\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\obj\Debug\netcoreapp3.1\ShopOnline.Core.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\UNIVERSIDAD\2021\INFO APLICADA\PROYECTO 2\Northwind\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\obj\Debug\netcoreapp3.1\ShopOnline.Core.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\UNIVERSIDAD\2021\INFO APLICADA\PROYECTO 2\Northwind\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\obj\Debug\netcoreapp3.1\ShopOnline.Core.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\UNIVERSIDAD\2021\INFO APLICADA\PROYECTO 2\Northwind\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\obj\Debug\netcoreapp3.1\ShopOnline.Core.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\UNIVERSIDAD\2021\INFO APLICADA\PROYECTO 2\Northwind\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\obj\Debug\netcoreapp3.1\ShopOnline.Core.dll
+C:\Users\Usuario\Desktop\UNIVERSIDAD\2021\INFO APLICADA\PROYECTO 2\Northwind\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\obj\Debug\netcoreapp3.1\ShopOnline.Core.pdb
+C:\Users\Usuario\Desktop\UNIVERSIDAD\2021\INFO APLICADA\PROYECTO 2\Northwinda\COPIA SHOP ONLINE\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\bin\Debug\netcoreapp3.1\ShopOnline.Core.deps.json
+C:\Users\Usuario\Desktop\UNIVERSIDAD\2021\INFO APLICADA\PROYECTO 2\Northwinda\COPIA SHOP ONLINE\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\bin\Debug\netcoreapp3.1\ShopOnline.Core.dll
+C:\Users\Usuario\Desktop\UNIVERSIDAD\2021\INFO APLICADA\PROYECTO 2\Northwinda\COPIA SHOP ONLINE\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\bin\Debug\netcoreapp3.1\ShopOnline.Core.pdb
+C:\Users\Usuario\Desktop\UNIVERSIDAD\2021\INFO APLICADA\PROYECTO 2\Northwinda\COPIA SHOP ONLINE\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\obj\Debug\netcoreapp3.1\ShopOnline.Core.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\UNIVERSIDAD\2021\INFO APLICADA\PROYECTO 2\Northwinda\COPIA SHOP ONLINE\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\obj\Debug\netcoreapp3.1\ShopOnline.Core.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\UNIVERSIDAD\2021\INFO APLICADA\PROYECTO 2\Northwinda\COPIA SHOP ONLINE\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\obj\Debug\netcoreapp3.1\ShopOnline.Core.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\UNIVERSIDAD\2021\INFO APLICADA\PROYECTO 2\Northwinda\COPIA SHOP ONLINE\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\obj\Debug\netcoreapp3.1\ShopOnline.Core.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\UNIVERSIDAD\2021\INFO APLICADA\PROYECTO 2\Northwinda\COPIA SHOP ONLINE\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\obj\Debug\netcoreapp3.1\ShopOnline.Core.dll
+C:\Users\Usuario\Desktop\UNIVERSIDAD\2021\INFO APLICADA\PROYECTO 2\Northwinda\COPIA SHOP ONLINE\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\obj\Debug\netcoreapp3.1\ShopOnline.Core.pdb
+C:\ProyectoAplicada\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\bin\Debug\netcoreapp3.1\ShopOnline.Core.deps.json
+C:\ProyectoAplicada\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\bin\Debug\netcoreapp3.1\ShopOnline.Core.dll
+C:\ProyectoAplicada\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\bin\Debug\netcoreapp3.1\ShopOnline.Core.pdb
+C:\ProyectoAplicada\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\obj\Debug\netcoreapp3.1\ShopOnline.Core.AssemblyInfoInputs.cache
+C:\ProyectoAplicada\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\obj\Debug\netcoreapp3.1\ShopOnline.Core.AssemblyInfo.cs
+C:\ProyectoAplicada\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\obj\Debug\netcoreapp3.1\ShopOnline.Core.csproj.CoreCompileInputs.cache
+C:\ProyectoAplicada\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\obj\Debug\netcoreapp3.1\ShopOnline.Core.dll
+C:\ProyectoAplicada\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\obj\Debug\netcoreapp3.1\ShopOnline.Core.pdb
+C:\APPaplicada\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\bin\Debug\netcoreapp3.1\ShopOnline.Core.deps.json
+C:\APPaplicada\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\bin\Debug\netcoreapp3.1\ShopOnline.Core.dll
+C:\APPaplicada\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\bin\Debug\netcoreapp3.1\ShopOnline.Core.pdb
+C:\APPaplicada\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\obj\Debug\netcoreapp3.1\ShopOnline.Core.csprojAssemblyReference.cache
+C:\APPaplicada\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\obj\Debug\netcoreapp3.1\ShopOnline.Core.AssemblyInfoInputs.cache
+C:\APPaplicada\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\obj\Debug\netcoreapp3.1\ShopOnline.Core.AssemblyInfo.cs
+C:\APPaplicada\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\obj\Debug\netcoreapp3.1\ShopOnline.Core.csproj.CoreCompileInputs.cache
+C:\APPaplicada\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\obj\Debug\netcoreapp3.1\ShopOnline.Core.dll
+C:\APPaplicada\onlineshop-northwind-master\ShopOnline\ShopOnline.Core\obj\Debug\netcoreapp3.1\ShopOnline.Core.pdb
